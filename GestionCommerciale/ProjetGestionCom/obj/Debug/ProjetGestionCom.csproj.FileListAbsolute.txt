@@ -1,0 +1,4 @@
+C:\Users\Madoo Ndiaye\Desktop\ProjetGestionCom\ProjetGestionCom\obj\Debug\ProjetGestionCom.csprojAssemblyReference.cache
+C:\Users\Madoo Ndiaye\Desktop\ProjetGestionCom\ProjetGestionCom\obj\Debug\ProjetGestionCom.Properties.Resources.resources
+C:\Users\Madoo Ndiaye\Desktop\ProjetGestionCom\ProjetGestionCom\obj\Debug\ProjetGestionCom.csproj.GenerateResource.cache
+C:\Users\Madoo Ndiaye\Desktop\ProjetGestionCom\ProjetGestionCom\obj\Debug\ProjetGestionCom.csproj.CoreCompileInputs.cache
